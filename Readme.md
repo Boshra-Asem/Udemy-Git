@@ -1,5 +1,5 @@
-## Udemy-git
+## Udemy-introduction Git course
 ### First-B-assignment
 
-Name: Boshra Asem
-Note: Good Luck
+* Name: Boshra Asem
+* Note: Good Luck
